@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'C:\Users\Alexandre\Programas\.bat-.cmd-.ps\powershell\Exemplo.ps1'"

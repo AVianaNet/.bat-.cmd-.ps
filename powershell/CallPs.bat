@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File C:\Users\Alexandre\Programas\.bat-.cmd-.ps\powershell\Exemplo.ps1
